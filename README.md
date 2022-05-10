@@ -1,6 +1,6 @@
 # Pair-Trading-Crypto
 
-This repository contains my research in Pair Trading. 
+This repository contains my small research in Pair Trading. 
 
 I was trying to find opportunities via arbitrage two coins. Backtest shows that there are certain opportunities but in fact backtest != real trading. So, I will certainly make an experiment with the real-life trading to be sure.
 
@@ -14,3 +14,5 @@ git clone https://github.com/vsaraikin/Pair-Trading-Crypto
 ```
 
 Note that commissions are set off by default.
+
+Backtester based on this repo has won FINTECH HACKATHON by Codenrock.
